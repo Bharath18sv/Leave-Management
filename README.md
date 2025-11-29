@@ -242,16 +242,6 @@ Before submission, test:
 - [x] Protected routes redirect to login
 - [x] Responsive on mobile devices
 
-## Screenshots
-
-_(Placeholder for screenshots - add actual screenshots when available)_
-
-1. Login Page
-2. Employee Dashboard
-3. Leave Application Form
-4. Manager Dashboard
-5. Pending Requests View
-
 ## Contributing
 
 1. Fork the repository
@@ -266,7 +256,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email [your-email@example.com] or open an issue in the repository.
-# Employee-Leave-Management
-# Leave-Management
-# Leave-Management
+For support, email [svbharath2005@gmail.com] or open an issue in the repository.
+
